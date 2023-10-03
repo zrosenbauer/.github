@@ -1,2 +1,3 @@
 # .github
-Base settings for things...
+
+Home base for GitHub.
